@@ -12,7 +12,9 @@ public class universityDB {
 
     public static void main(String[] args) {
 
+        //connection null for now
         Connection connection = null;
+
 
         //connection steam to connect to the SQLite database.
 
