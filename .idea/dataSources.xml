@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="UniversityDB" uuid="28969476-96ae-4ea1-a0ae-8e223d3ac067">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/res/UniversityDB</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="universityDB.db" uuid="ca4a3c21-50eb-4a67-99bb-7871351a5636">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$USER_HOME$/Documents/Databases/universityDB.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
